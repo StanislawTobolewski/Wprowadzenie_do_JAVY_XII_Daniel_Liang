@@ -26,7 +26,7 @@ public class Exercise_2_8 {
 
 
             // + 2 Time zone
-            System.out.println("Actual timme: " + (actualHour)+":"+actualMinute+":"+actualSecond);
+            System.out.println("Actual time: " + (actualHour)+":"+actualMinute+":"+actualSecond);
 
 
     }
